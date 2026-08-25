@@ -1,0 +1,19 @@
+{
+  "exchange": "binance",
+  "symbol": "BTCUSDT",
+  "poll_interval": 5,
+  "binance_api_key": "",
+  "binance_api_secret": "",
+  "bybit_api_key": "",
+  "bybit_api_secret": "",
+  "bitget_api_key": "",
+  "bitget_api_secret": "",
+  "bitget_api_passphrase": "",
+  "gateio_api_key": "",
+  "gateio_api_secret": "",
+  "aster_api_key": "",
+  "aster_api_secret": "",
+  "okx_api_key": "",
+  "okx_api_secret": "",
+  "okx_api_passphrase": ""
+}
